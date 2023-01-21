@@ -1,0 +1,17 @@
+.cart-list {
+  padding-left: 0px;
+}
+.total-orders-outer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.checkout-btn {
+  width: 100%;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+}
